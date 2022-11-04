@@ -2,11 +2,12 @@
 // @name           Disable website hotkeys
 // @description    Stop websites from hijacking keyboard shortcuts.
 // @author         yeshiqing
+// @license        MIT
 // @run-at         document-start
 // @include        *
 // @grant          none
 // @version        0.0.1
-// @namespace      https://github.com/isaacl/tmscript-keycode
+// @namespace      https://github.com/yeshiqing/stop-hijacking-hotkeys
 // ==/UserScript==
 
 // Disable these keys when no keyboard modifier is pressed
@@ -29,7 +30,6 @@ let alt_keycodes = new Set([
 
 
 let isMac = navigator.platform.indexOf('Mac') >= 0;
-
 
 document.addEventListener('keydown', function (e) {
     let keycode_set;
