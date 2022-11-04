@@ -1,3 +1,4 @@
+
 Disable the website https://www.yuque.com/ doc-publish hotkey `⌘+enter`, which is used in Typora.app to insert a new row in table.
 
 Modify as desired.
