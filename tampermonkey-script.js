@@ -4,10 +4,10 @@
 // @author         yeshiqing
 // @license        MIT
 // @run-at         document-start
-// @include        *
+// @include        https://www.yuque.com/*
 // @grant          none
-// @version        0.0.1
-// @namespace      https://github.com/yeshiqing/stop-hijacking-hotkeys
+// @version        0.0.3
+// @namespace      https://github.com/yeshiqing/disable-website-hotkeys
 // ==/UserScript==
 
 // Disable these keys when no keyboard modifier is pressed
@@ -31,7 +31,7 @@ let alt_keycodes = new Set([
 
 let isMac = navigator.platform.indexOf('Mac') >= 0;
 
-document.addEventListener('keydown', function (e) {
+window.addEventListener('keydown', function (e) {
     let keycode_set;
     if (isMac ? e.metaKey : e.ctrlKey) {
         keycode_set = meta_keycodes;

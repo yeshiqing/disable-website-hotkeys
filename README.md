@@ -6,7 +6,7 @@
 感谢提供思路：https://greasyfork.org/en/scripts/5819-disable-website-keyboard-hooks/code
 
 ## 本脚本目前功能
-1. 屏蔽语雀 `⌘+enter` 发布、更新文档。
+1. 屏蔽语雀发布、更新文档快捷键 `⌘+enter` ，理由是与 Typora 表格换行冲突，经常误触导致页面刷新。
 
 ## 目前运行环境
 1. 只支持 Mac、Chrome。
