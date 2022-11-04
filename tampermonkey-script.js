@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name           Disable website hotkeys
-// @description    Stop websites from hijacking keyboard shortcuts.
+// @description    Disable website hotkeys, which is implemented by JavaScript addEventListener API.
 // @author         yeshiqing
 // @license        MIT
 // @run-at         document-start
 // @include        https://www.yuque.com/*
 // @grant          none
-// @version        0.0.3
+// @version        0.0.4
 // @namespace      https://github.com/yeshiqing/disable-website-hotkeys
+// @icon           https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // ==/UserScript==
 
 // Disable these keys when no keyboard modifier is pressed
