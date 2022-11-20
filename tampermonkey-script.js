@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name           Disable website hotkeys
-// @description    Disable website hotkeys, which is implemented by JavaScript addEventListener API.
+// @name           Disable yuque website hotkeys
+// @description    Disable yuque website hotkeys, which is implemented by JavaScript addEventListener and stopImmediatePropagation API.
 // @author         yeshiqing
 // @license        MIT
 // @run-at         document-start
