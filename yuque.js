@@ -8,7 +8,7 @@
 // @grant          none
 // @version        0.0.5
 // @namespace      https://github.com/yeshiqing/disable-website-hotkeys/yuque.js
-// @icon           https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// @icon           blob:chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/2628a04c-e27b-4d17-81a6-9b0735dacbfa
 // ==/UserScript==
 
 // Disable these keys when no keyboard modifier is pressed
