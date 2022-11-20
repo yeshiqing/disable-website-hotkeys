@@ -12,8 +12,9 @@
 
 ## 安装脚本
 1. 首先在 Chrome 中安装 [Tampermonkey 插件](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. 访问提供用户脚本的网站 Greasy Fork，脚本存放在这里：https://greasyfork.org/en/scripts/454229-disable-website-hotkeys
-3. 点击绿色框中的 install 或 Reinstall，查看安装脚本步骤：https://greasyfork.org/en/help/installing-user-scripts。
+2. 访问提供用户脚本的网站 Greasy Fork
+    - 语雀脚本：https://greasyfork.org/en/scripts/454229-disable-website-hotkeys
+3. 点击绿色框中的 install。查看安装脚本步骤：https://greasyfork.org/en/help/installing-user-scripts。
 
 ## Todo
 1. 目前代码屏蔽的是只含有一个修饰键的快捷键，可以扩展至含有多个修饰键的快捷键。

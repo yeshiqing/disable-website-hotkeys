@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name           Disable yuque website hotkeys
-// @description    Disable yuque website hotkeys, which is implemented by JavaScript addEventListener and stopImmediatePropagation API.
+// @description    disable website hotkeys which is implemented by JavaScript addEventListener and stopImmediatePropagation API.
 // @author         yeshiqing
 // @license        MIT
 // @run-at         document-start
 // @include        https://www.yuque.com/*
 // @grant          none
-// @version        0.0.4
-// @namespace      https://github.com/yeshiqing/disable-website-hotkeys
+// @version        0.0.5
+// @namespace      https://github.com/yeshiqing/disable-website-hotkeys/yuque.js
 // @icon           https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // ==/UserScript==
 
