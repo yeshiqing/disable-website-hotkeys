@@ -20,7 +20,7 @@ let std_keycodes = new Set([
 // Disable these keys when Meta key is pressed.
 let meta_keycodes = new Set([
     // Add keycodes as desired
-    13 // Command + F
+    13 // Command + enter
 ]);
 
 // Disable these keys when Alt key is pressed.
