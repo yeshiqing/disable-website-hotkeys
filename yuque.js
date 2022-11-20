@@ -6,9 +6,9 @@
 // @run-at         document-start
 // @include        https://www.yuque.com/*
 // @grant          none
-// @version        0.0.5
+// @version        0.0.6
 // @namespace      https://github.com/yeshiqing/disable-website-hotkeys/yuque.js
-// @icon           https://wx4.sinaimg.cn/large/6cdfff77gy1h8bybdp2eyj201s01s3yc.jpg
+// @icon           https://upload-images.jianshu.io/upload_images/1231311-1d5a2ebbd33475e1.png
 // ==/UserScript==
 
 // Disable these keys when no keyboard modifier is pressed
