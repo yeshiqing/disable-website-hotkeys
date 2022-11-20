@@ -8,7 +8,7 @@
 // @grant          none
 // @version        0.0.5
 // @namespace      https://github.com/yeshiqing/disable-website-hotkeys/yuque.js
-// @icon           blob:chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/2628a04c-e27b-4d17-81a6-9b0735dacbfa
+// @icon           https://wx4.sinaimg.cn/large/6cdfff77gy1h8bybdp2eyj201s01s3yc.jpg
 // ==/UserScript==
 
 // Disable these keys when no keyboard modifier is pressed
